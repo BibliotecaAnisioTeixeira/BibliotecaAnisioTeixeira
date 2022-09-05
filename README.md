@@ -1,4 +1,4 @@
-## Perfil cirado para a criação do projeto Bibliteca Anísio Teixeira
+## Perfil criado para a criação do projeto Bibliteca Anísio Teixeira
 <div align="center">
   <a href="https://github.com/anderson-nasciment0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BibliotecaAnisioTeixeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
